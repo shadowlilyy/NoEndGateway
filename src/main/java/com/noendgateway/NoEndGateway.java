@@ -37,6 +37,6 @@ public class NoEndGateway extends JavaPlugin implements Listener {
                     }
                 }
             }
-        }.runTaskLater(this, 1L * 5);
+        }.runTaskLater(this, 3L * 5);
     }
 }
