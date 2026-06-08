@@ -6,7 +6,7 @@
 
     <groupId>com.noendgateway</groupId>
     <artifactId>NoEndGateway</artifactId>
-    <version>1.4</version>
+    <version>1.5</version>
     <packaging>jar</packaging>
 
     <repositories>
